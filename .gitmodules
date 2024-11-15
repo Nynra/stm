@@ -1,0 +1,6 @@
+[submodule "hardware-code"]
+	path = hardware-code
+	url = https://github.com/Nynra/stm-hardware-code
+[submodule "python-code"]
+	path = python-code
+	url = https://github.com/Nynra/stm-python-code
